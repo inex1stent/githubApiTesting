@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import './App.css';
 
 export function App() {
   const [ repositories, setRepositories ] = useState([])
@@ -16,8 +17,9 @@ export function App() {
         { repositories.map(repository => {
           return (
             <li>
-              <h2>{ repository.name} </h2>
-              <h3>{ repository.description }</h3>
+              <h2>Name: { repository.name } </h2>
+              <h3>Description: { repository.description }</h3>
+              <h4>Lang: { repository.language }</h4>
               </li>
           )
         }) }
