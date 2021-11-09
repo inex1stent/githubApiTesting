@@ -1,2 +1,8 @@
-# githubApiTesting
-📚 › Testing the GitHub API with React.js!
+# Testing the GitHub API
+## 📚 › Testing the GitHub API with React.js!
+
+## 🚀 › Run: 
+### ```yarn start```
+
+## And open https://localhost:3000.
+### 🛑 › Requires [Yarn](https://yarnpkg.com/) and [Node.js](https://nodejs.org).
