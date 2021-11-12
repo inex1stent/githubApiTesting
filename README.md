@@ -4,6 +4,8 @@
 ## 🚀 › Run: 
 ```console
 yarn start
+# or
+npm start
 ```
 
 ## And open https://localhost:3000.
