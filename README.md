@@ -1,12 +1,12 @@
-# Testing the GitHub API
-## 📚 › Testing the GitHub API with React.js!
+# testing the GitHub API
+## testing the GitHub API w/ React.js!
 
-## 🚀 › Run: 
+## run: 
 ```console
 yarn start
 # or
 npm start
 ```
 
-## And open https://localhost:3000.
-### 🛑 › Requires [Yarn](https://yarnpkg.com/) and [Node.js](https://nodejs.org).
+## and open https://localhost:3000.
+### requires [Yarn](https://yarnpkg.com/) and [Node.js](https://nodejs.org).
