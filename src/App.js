@@ -6,7 +6,7 @@ export function App() {
 
 
   useEffect(() => {
-    fetch('https://api.github.com/users/leoo027/repos')
+    fetch('https://api.github.com/users/inex1stent/repos')
     .then(response => response.json())
     .then(data => setRepositories(data))
   }, []);
